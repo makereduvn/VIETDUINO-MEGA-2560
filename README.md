@@ -95,14 +95,11 @@ void loop() {
   - Ẩm ướt
   - Nhiệt độ cao
   - Nhiều bụi dẫn điện
-- Nên sử dụng nguồn DC adapter chất lượng tốt
+- Nên sử dụng với nguồn điện chất lượng tốt
 - Luôn đảm bảo mạch:
   - Không bị chập mạch
   - Không đấu sai cực nguồn
-  - Khi mạch được cấp nguồn ngoài, không rút/cắm USB liên tục trong lúc tải lớn đang hoạt động
-- Nên ngắt nguồn ngoài trước khi:
-  - Thay đổi đấu nối phần cứng
-  - Kết nối lại với máy tính để nạp chương trình
+- Nên ngắt nguồn ngoài trước khi thay đổi đấu nối phần cứng.
 
 ## Hình ảnh sản phẩm
 ![Vietduino Mega 2560](/extras/VietduinoMega2560_5.png)
