@@ -41,6 +41,7 @@ Mạch được thiết kế tương thích hoàn toàn với Arduino Mega 2560 
 - PWM: 15 chân
 - Analog Input: 16 chân
 - LED_BUILTIN: Chân 13
+
 ![Vietduino Mega 2560](/extras/VietduinoMega2560_1.png)
 
 ### Kích thước
