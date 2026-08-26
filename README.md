@@ -42,7 +42,7 @@ Mạch được thiết kế tương thích hoàn toàn với Arduino Mega 2560 
 - Analog Input: 16 chân
 - LED_BUILTIN: Chân 13
 
-![Vietduino Mega 2560](/extras/VietduinoMega2560_1.png)
+![Vietduino Mega 2560](/extras/VietduinoMega2560_0.png)
 
 ### Kích thước
 ![Vietduino Mega 2560](/extras/VietduinoMega2560_2.jpg)
