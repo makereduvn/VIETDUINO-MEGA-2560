@@ -64,6 +64,7 @@ Mạch được thiết kế tương thích hoàn toàn với Arduino Mega 2560 
 Thực hiện các thiết lập sau trong Arduino IDE:
 - Chọn loại board: Tools → Board → Arduino AVR Boards → Arduino Mega 2560
 - Chọn cổng kết nối (Port): Tools → Port → chọn cổng tương ứng với Vietduino Mega 2560 (nếu chưa xác định được, hãy rút cáp USB và cắm lại để nhận diện cổng mới xuất hiện)
+- 
 ![Vietduino Mega 2560](/extras/VietduinoMega2560_3.jpg)
 
 ### Bước 5: Nạp chương trình thử nghiệm (Blink)
