@@ -7,8 +7,8 @@
 
 ## Ưu điểm nổi bật
 - Tương thích hoàn toàn Arduino Mega 2560, giữ nguyên form factor, vị trí chân và chuẩn giao tiếp.
-- Nâng cấp mạch nguồn xung giảm áp hiệu suất chuyển đổi cao, tỏa nhiệt thấp, tiết kiệm năng lượng.
-- Sử dụng IC chuyển đổi USB–UART chính hãng CH343P, đảm bảo giao tiếp ổn định, nạp chương trình tin cậy và độ bền cao khi sử dụng lâu dài.
+- Sử dụng linh kiện chính hãng chất lượng cho độ bền và độ ổn định cao.
+- Sử dụng IC chuyển đổi USB–UART CH343P, đảm bảo giao tiếp ổn định, nạp chương trình tin cậy và độ bền cao khi sử dụng lâu dài.
 - Bảo vệ cổng USB máy tính với chức năng tự động cách ly nguồn USB khi cấp nguồn ngoài qua chân VIN hoặc Jack DC, giúp tăng độ an toàn trong quá trình học tập và thử nghiệm.
 
 ## Thông số kỹ thuật
